@@ -8,7 +8,7 @@ $arr = array("MUSICALS"=>array('Oklahoma','The Music Man','South Pacific'),
 print_r($arr);
 
 
- echo $arr['MUSICALS'];
+ echo $arr[0];
 
 ?>
 
