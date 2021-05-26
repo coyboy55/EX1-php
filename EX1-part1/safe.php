@@ -16,7 +16,7 @@ Date <?php echo $_POST["Date"]; ?><br>
 Social <?php echo $_POST["Social"]; ?><br>
 
 <?php
-$stack = array("orange", "banana");
+
 $users=['fakher','coyboy'];
 $passwords=['123','456'];
 
